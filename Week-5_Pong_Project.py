@@ -1,7 +1,7 @@
 # Implementation of classic arcade game Pong
 ## Week 5 - Pong Project Code
 
-try: #this simplegui code doesn't work (prob not updated for python 3.7
+try: 
     import simplegui
 except ImportError:
     import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
